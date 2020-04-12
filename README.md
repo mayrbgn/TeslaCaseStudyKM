@@ -1,4 +1,5 @@
-# KnowledgeManagement - UE17CS342 Project Team
+# KnowledgeManagement-Tesla Case Study
+Knowledge Management - UE17CS342 Project Team
 
 Jnanesh D-PES1201701822
 
