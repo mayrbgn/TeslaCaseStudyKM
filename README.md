@@ -14,6 +14,6 @@
 
 # Overview
 
-Description
+<b>Description</b>
 
-A case study on Tesla Inc
+<li>A case study on Tesla Inc</li>
