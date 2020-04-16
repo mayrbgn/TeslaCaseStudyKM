@@ -1,6 +1,6 @@
 # <h1>KnowledgeManagement-Tesla Case Study</h1>
 
-<h1>Knowledge Management - UE17CS342</h1> <b>Project Team</b>
+<b>Knowledge Management - UE17CS342</b> <b>Project Team</b>
 
 <li>Jnanesh D-PES1201701822</li>
 
